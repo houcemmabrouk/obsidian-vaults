@@ -10,6 +10,8 @@ aliases: [Master Index, MOC of MOCs]
 
 ## Cartes thématiques
 - 🧠 [[🧠 Learning Science MOC]] — comment apprend le cerveau
+- ⚡ [[⚡ Productivity MOC]] — méthodes & attention
+- 🤖 [[🤖 AI & LLM MOC]] — IA générative (LLM, RAG, embeddings)
 - 💰 [[💰 Finance MOC]] — marchés, certifications, investissement
 - 🚀 [[🚀 Projects MOC]] — les produits en construction
 

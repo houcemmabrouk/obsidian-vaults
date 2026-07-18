@@ -27,4 +27,4 @@ SORT file.name ASC
 ```
 
 ## 🔗 Liens
-- [[🚀 Projects MOC]] · [[Finance & Investing]]
+- [[🚀 Projects MOC]] · [[🤖 AI & LLM MOC]] · [[Finance & Investing]]

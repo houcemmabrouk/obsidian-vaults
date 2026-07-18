@@ -14,6 +14,12 @@ created: 2026-07-18
 - [[Interleaving]] — mélanger les sujets
 - [[Dual Coding]] — texte + visuel/audio
 - [[Cognitive Load Theory]] — ne pas saturer la mémoire de travail
+- [[Desirable Difficulty]] — la difficulté utile ancre mieux
+
+## Stratégies & métacognition
+- [[Elaboration]] — relier à ce qu'on sait déjà
+- [[Feynman Technique]] — expliquer simplement pour comprendre
+- [[Metacognition]] — savoir ce qu'on sait vraiment
 
 ## Comment ils s'articulent
 ```
