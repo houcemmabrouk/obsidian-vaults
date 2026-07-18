@@ -1,0 +1,17 @@
+# === Obsidian : cache & workspace (par vault) ===
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache
+**/.trash/
+
+# === Système ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Fichiers temporaires / OneDrive ===
+*.tmp
+~$*
+
+# Remarque : on GARDE le reste de .obsidian/ (plugins, thèmes, hotkeys, app.json)
+# pour retrouver la config à l'identique après restauration.
