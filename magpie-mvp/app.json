@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Magpie",
+    "slug": "magpie-mvp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.magpie.mvp"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.magpie.mvp"
+    }
+  }
+}
